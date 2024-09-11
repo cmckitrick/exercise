@@ -3,4 +3,6 @@
 This documentation describes how to use the Kavel automatic toothbrush.
 
 
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
+Note that this toothbrush is totally safe to use for aliens, children, adults, pets, wildlife, and trees.
+
+This toothbrush requires [need info here].
