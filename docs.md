@@ -1,6 +1,6 @@
 
 
-This documentation describes how to use the Kraken automatic toothbrush.
+This documentation describes how to use the Kraken automatic toothbrush for bees.
 
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
